@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e0a236cfbd890e418614d61e7eaf4d7, type: 3}
+  m_Name: Food7
+  m_EditorClassIdentifier: 
+  timeInSeconds: 101
+  Columns: 8
+  Rows: 8
+  Board:
+  - Size: 8
+    Row:
+    - P
+    - M
+    - Z
+    - S
+    - H
+    - U
+    - G
+    - K
+  - Size: 8
+    Row:
+    - P
+    - S
+    - O
+    - H
+    - Y
+    - Q
+    - E
+    - C
+  - Size: 8
+    Row:
+    - Y
+    - D
+    - Z
+    - R
+    - W
+    - C
+    - L
+    - I
+  - Size: 8
+    Row:
+    - R
+    - W
+    - B
+    - E
+    - T
+    - H
+    - K
+    - R
+  - Size: 8
+    Row:
+    - R
+    - L
+    - E
+    - M
+    - C
+    - Y
+    - C
+    - U
+  - Size: 8
+    Row:
+    - E
+    - O
+    - A
+    - M
+    - L
+    - D
+    - I
+    - B
+  - Size: 8
+    Row:
+    - J
+    - G
+    - G
+    - U
+    - U
+    - D
+    - P
+    - E
+  - Size: 8
+    Row:
+    - J
+    - E
+    - S
+    - S
+    - I
+    - C
+    - A
+    - G
+  SearchWords:
+  - Found: 1
+    Word: RICK
+  - Found: 1
+    Word: MORTY
+  - Found: 1
+    Word: SUMMER
+  - Found: 1
+    Word: BETH
+  - Found: 1
+    Word: JERRY
+  - Found: 1
+    Word: JESSICA
+  - Found: 1
+    Word: PICKLE

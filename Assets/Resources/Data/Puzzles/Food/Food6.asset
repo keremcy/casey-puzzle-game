@@ -1,0 +1,159 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e0a236cfbd890e418614d61e7eaf4d7, type: 3}
+  m_Name: Food6
+  m_EditorClassIdentifier: 
+  timeInSeconds: 100
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - Q
+    - Y
+    - L
+    - L
+    - E
+    - A
+    - H
+    - C
+    - I
+    - M
+  - Size: 10
+    Row:
+    - P
+    - R
+    - I
+    - S
+    - O
+    - N
+    - M
+    - B
+    - T
+    - S
+  - Size: 10
+    Row:
+    - S
+    - L
+    - N
+    - J
+    - L
+    - H
+    - H
+    - H
+    - G
+    - J
+  - Size: 10
+    Row:
+    - E
+    - I
+    - C
+    - V
+    - K
+    - A
+    - E
+    - R
+    - B
+    - W
+  - Size: 10
+    Row:
+    - U
+    - N
+    - O
+    - T
+    - A
+    - O
+    - P
+    - P
+    - R
+    - E
+  - Size: 10
+    Row:
+    - W
+    - N
+    - L
+    - Y
+    - D
+    - R
+    - H
+    - J
+    - A
+    - D
+  - Size: 10
+    Row:
+    - Z
+    - O
+    - N
+    - O
+    - V
+    - I
+    - A
+    - R
+    - D
+    - G
+  - Size: 10
+    Row:
+    - P
+    - L
+    - R
+    - U
+    - W
+    - B
+    - E
+    - S
+    - X
+    - L
+  - Size: 10
+    Row:
+    - E
+    - E
+    - Z
+    - I
+    - Z
+    - Z
+    - U
+    - R
+    - B
+    - A
+  - Size: 10
+    Row:
+    - C
+    - N
+    - O
+    - T
+    - E
+    - R
+    - C
+    - U
+    - S
+    - U
+  SearchWords:
+  - Found: 1
+    Word: MICHAEL
+  - Found: 1
+    Word: LINCOLN
+  - Found: 1
+    Word: SARA
+  - Found: 1
+    Word: THEODORE
+  - Found: 1
+    Word: SUCRE
+  - Found: 1
+    Word: CNOTE
+  - Found: 1
+    Word: BRAD
+  - Found: 1
+    Word: PRISON
+  - Found: 1
+    Word: BREAK
+  - Found: 1
+    Word: ABRUZZI

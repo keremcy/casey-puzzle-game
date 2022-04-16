@@ -1,0 +1,154 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e0a236cfbd890e418614d61e7eaf4d7, type: 3}
+  m_Name: Puzzle1
+  m_EditorClassIdentifier: 
+  timeInSeconds: 0
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - K
+    - E
+    - R
+    - E
+    - M
+    - Y
+    - J
+    - U
+    - Y
+    - H
+  - Size: 10
+    Row:
+    - C
+    - F
+    - Z
+    - R
+    - Y
+    - A
+    - E
+    - Y
+    - S
+    - A
+  - Size: 10
+    Row:
+    - C
+    - N
+    - Z
+    - D
+    - Z
+    - S
+    - Y
+    - T
+    - H
+    - M
+  - Size: 10
+    Row:
+    - A
+    - G
+    - F
+    - O
+    - V
+    - I
+    - Y
+    - Y
+    - I
+    - U
+  - Size: 10
+    Row:
+    - N
+    - O
+    - L
+    - J
+    - X
+    - N
+    - N
+    - W
+    - K
+    - R
+  - Size: 10
+    Row:
+    - I
+    - Y
+    - V
+    - O
+    - D
+    - A
+    - L
+    - B
+    - O
+    - W
+  - Size: 10
+    Row:
+    - R
+    - Q
+    - R
+    - Q
+    - K
+    - F
+    - L
+    - V
+    - M
+    - A
+  - Size: 10
+    Row:
+    - A
+    - V
+    - L
+    - R
+    - G
+    - C
+    - C
+    - I
+    - I
+    - W
+  - Size: 10
+    Row:
+    - E
+    - K
+    - U
+    - C
+    - U
+    - Z
+    - T
+    - T
+    - K
+    - B
+  - Size: 10
+    Row:
+    - G
+    - F
+    - L
+    - W
+    - R
+    - D
+    - Z
+    - O
+    - X
+    - A
+  SearchWords:
+  - Word: KEREM
+  - Word: YASIN
+  - Word: FURKAN
+  - Word: HAYVAN
+  - Word: IKOMI
+  - Word: CANIR
+  - Word: KAKUL
+  - Word: KAKULE
+  - Word: MAMUL
+  - Word: HAMUR
+  - Word: SAMUR
+  - Word: TAMAM
+  - Word: HAMAM
+  - Word: SAMAN
+  - Word: LOKMA

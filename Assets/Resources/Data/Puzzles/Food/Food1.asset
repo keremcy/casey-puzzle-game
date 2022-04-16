@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e0a236cfbd890e418614d61e7eaf4d7, type: 3}
+  m_Name: Food1
+  m_EditorClassIdentifier: 
+  timeInSeconds: 40
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - M
+    - H
+    - T
+    - T
+    - F
+    - M
+    - X
+    - M
+    - G
+    - N
+  - Size: 10
+    Row:
+    - Y
+    - I
+    - D
+    - S
+    - B
+    - O
+    - S
+    - R
+    - P
+    - Q
+  - Size: 10
+    Row:
+    - V
+    - S
+    - C
+    - R
+    - B
+    - R
+    - I
+    - S
+    - T
+    - T
+  - Size: 10
+    Row:
+    - E
+    - H
+    - C
+    - E
+    - W
+    - I
+    - J
+    - H
+    - S
+    - H
+  - Size: 10
+    Row:
+    - E
+    - E
+    - I
+    - K
+    - U
+    - A
+    - U
+    - U
+    - E
+    - C
+  - Size: 10
+    Row:
+    - Q
+    - R
+    - T
+    - A
+    - G
+    - R
+    - T
+    - D
+    - M
+    - X
+  - Size: 10
+    Row:
+    - T
+    - L
+    - Z
+    - B
+    - B
+    - T
+    - T
+    - S
+    - L
+    - I
+  - Size: 10
+    Row:
+    - A
+    - O
+    - P
+    - Z
+    - L
+    - Y
+    - F
+    - O
+    - O
+    - R
+  - Size: 10
+    Row:
+    - Z
+    - C
+    - F
+    - D
+    - K
+    - X
+    - W
+    - N
+    - H
+    - N
+  - Size: 10
+    Row:
+    - E
+    - K
+    - M
+    - Y
+    - C
+    - R
+    - O
+    - F
+    - T
+    - G
+  SearchWords:
+  - Found: 1
+    Word: SHERLOCK
+  - Found: 1
+    Word: HOLMES
+  - Found: 1
+    Word: DRWATSON
+  - Found: 1
+    Word: MYCROFT
+  - Found: 1
+    Word: MORIARTY
+  - Found: 1
+    Word: MRSHUDSON
+  - Found: 1
+    Word: BAKERST

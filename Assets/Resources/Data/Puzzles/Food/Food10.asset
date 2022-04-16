@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e0a236cfbd890e418614d61e7eaf4d7, type: 3}
+  m_Name: Food10
+  m_EditorClassIdentifier: 
+  timeInSeconds: 75
+  Columns: 9
+  Rows: 9
+  Board:
+  - Size: 9
+    Row:
+    - S
+    - G
+    - K
+    - L
+    - E
+    - H
+    - C
+    - A
+    - R
+  - Size: 9
+    Row:
+    - T
+    - D
+    - X
+    - O
+    - N
+    - S
+    - A
+    - L
+    - Z
+  - Size: 9
+    Row:
+    - M
+    - B
+    - N
+    - R
+    - Y
+    - E
+    - N
+    - Z
+    - R
+  - Size: 9
+    Row:
+    - X
+    - T
+    - C
+    - E
+    - B
+    - E
+    - O
+    - H
+    - P
+  - Size: 9
+    Row:
+    - V
+    - H
+    - O
+    - L
+    - I
+    - G
+    - O
+    - B
+    - N
+  - Size: 9
+    Row:
+    - D
+    - C
+    - V
+    - D
+    - Q
+    - R
+    - K
+    - J
+    - S
+  - Size: 9
+    Row:
+    - O
+    - U
+    - W
+    - N
+    - F
+    - K
+    - F
+    - B
+    - S
+  - Size: 9
+    Row:
+    - R
+    - E
+    - L
+    - D
+    - N
+    - A
+    - H
+    - C
+    - O
+  - Size: 9
+    Row:
+    - D
+    - E
+    - A
+    - C
+    - I
+    - N
+    - O
+    - M
+    - R
+  SearchWords:
+  - Found: 1
+    Word: FRIENDS
+  - Found: 1
+    Word: CHANDLER
+  - Found: 1
+    Word: PHOEBE
+  - Found: 1
+    Word: MONICA
+  - Found: 1
+    Word: ROSS
+  - Found: 1
+    Word: JOEY
+  - Found: 1
+    Word: RACHEL

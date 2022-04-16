@@ -1,0 +1,159 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e0a236cfbd890e418614d61e7eaf4d7, type: 3}
+  m_Name: Food8
+  m_EditorClassIdentifier: 
+  timeInSeconds: 100
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - R
+    - G
+    - H
+    - L
+    - E
+    - A
+    - H
+    - C
+    - I
+    - M
+  - Size: 10
+    Row:
+    - Z
+    - D
+    - H
+    - P
+    - Y
+    - A
+    - X
+    - Z
+    - M
+    - B
+  - Size: 10
+    Row:
+    - F
+    - W
+    - W
+    - E
+    - O
+    - S
+    - C
+    - A
+    - R
+    - H
+  - Size: 10
+    Row:
+    - G
+    - I
+    - J
+    - I
+    - F
+    - F
+    - V
+    - J
+    - P
+    - P
+  - Size: 10
+    Row:
+    - N
+    - G
+    - X
+    - C
+    - F
+    - V
+    - I
+    - D
+    - A
+    - V
+  - Size: 10
+    Row:
+    - X
+    - H
+    - Y
+    - X
+    - I
+    - M
+    - K
+    - M
+    - E
+    - N
+  - Size: 10
+    Row:
+    - R
+    - T
+    - M
+    - Q
+    - C
+    - N
+    - E
+    - W
+    - H
+    - I
+  - Size: 10
+    Row:
+    - U
+    - A
+    - N
+    - G
+    - E
+    - L
+    - A
+    - X
+    - J
+    - V
+  - Size: 10
+    Row:
+    - J
+    - Y
+    - D
+    - N
+    - A
+    - Y
+    - R
+    - P
+    - D
+    - E
+  - Size: 10
+    Row:
+    - F
+    - W
+    - R
+    - E
+    - L
+    - N
+    - S
+    - L
+    - L
+    - K
+  SearchWords:
+  - Found: 1
+    Word: JIM
+  - Found: 1
+    Word: PAMELA
+  - Found: 1
+    Word: DWIGHT
+  - Found: 1
+    Word: MICHAEL
+  - Found: 1
+    Word: ANGELA
+  - Found: 1
+    Word: RYAN
+  - Found: 1
+    Word: KEVIN
+  - Found: 1
+    Word: OSCAR
+  - Found: 1
+    Word: ANDY
+  - Found: 1
+    Word: OFFICE

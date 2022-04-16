@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e0a236cfbd890e418614d61e7eaf4d7, type: 3}
+  m_Name: Food4
+  m_EditorClassIdentifier: 
+  timeInSeconds: 120
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - D
+    - D
+    - F
+    - A
+    - D
+    - Y
+    - S
+    - Z
+    - T
+    - J
+  - Size: 10
+    Row:
+    - H
+    - A
+    - Y
+    - R
+    - A
+    - E
+    - T
+    - W
+    - O
+    - W
+  - Size: 10
+    Row:
+    - D
+    - E
+    - Y
+    - R
+    - U
+    - N
+    - C
+    - N
+    - S
+    - B
+  - Size: 10
+    Row:
+    - C
+    - N
+    - A
+    - S
+    - N
+    - A
+    - S
+    - U
+    - R
+    - N
+  - Size: 10
+    Row:
+    - E
+    - E
+    - N
+    - N
+    - W
+    - N
+    - Q
+    - O
+    - O
+    - H
+  - Size: 10
+    Row:
+    - R
+    - R
+    - O
+    - R
+    - O
+    - G
+    - T
+    - I
+    - K
+    - S
+  - Size: 10
+    Row:
+    - S
+    - Y
+    - Y
+    - W
+    - L
+    - F
+    - R
+    - Z
+    - R
+    - T
+  - Size: 10
+    Row:
+    - E
+    - S
+    - V
+    - H
+    - O
+    - Y
+    - B
+    - P
+    - W
+    - A
+  - Size: 10
+    Row:
+    - I
+    - Y
+    - B
+    - Z
+    - T
+    - Y
+    - W
+    - S
+    - N
+    - R
+  - Size: 10
+    Row:
+    - L
+    - A
+    - N
+    - N
+    - I
+    - S
+    - T
+    - E
+    - R
+    - K
+  SearchWords:
+  - Found: 1
+    Word: JONSNOW
+  - Found: 1
+    Word: STARK
+  - Found: 1
+    Word: SANSA
+  - Found: 1
+    Word: TYRION
+  - Found: 1
+    Word: DAENERYS
+  - Found: 1
+    Word: ARYA
+  - Found: 1
+    Word: LANNISTER
+  - Found: 1
+    Word: CERSEI
